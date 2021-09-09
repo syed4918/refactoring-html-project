@@ -43,7 +43,8 @@ header {
 
 a {
     color: #ffffff;
-    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
 }
 
 p {
